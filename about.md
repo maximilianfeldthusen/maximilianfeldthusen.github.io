@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Hey everyone! I’m a Software Engineer, graduated from the Engineering College in Copenhagen, specializing in Reverse Engineering, Static Code Analysis and Malware Analysis.
+<p>Hey everyone!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">I’m a Software Engineer, graduated from the Engineering College in Copenhagen, specializing in Reverse Engineering, Static Code Analysis and Malware Analysis.
 Programming Languages like C/C++, Rust and Assembly, etc..</p>
 
 <p></p>
