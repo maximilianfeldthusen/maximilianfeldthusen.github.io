@@ -7,7 +7,7 @@ layout: page
 <p>A Software Engineer, graduated from the Engineering College in Copenhagen, specializing in Reverse Engineering, Static Code Analysis and Malware Analysis.
 Programming Languages like C/C++ and Assembly, etc..</p>
 
-<p>.</p>
+<p></p>
 
 <h2></h2>
 
