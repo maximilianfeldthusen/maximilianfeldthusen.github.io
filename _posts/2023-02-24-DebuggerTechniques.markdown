@@ -11,7 +11,7 @@ tag:
 star: true
 category: blog
 author: torben feldthusen
-description: Debugger Techniques
+description: "Debugger Techniques"
 ---
 
 
