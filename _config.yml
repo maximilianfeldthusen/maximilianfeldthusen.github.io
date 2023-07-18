@@ -1,5 +1,5 @@
 # main text of home
-title: John Doe
+title: Torben Feldthusen
 bio: A Person who travels the world eating noodles
 
 # twitter summary info
@@ -34,17 +34,17 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
-instagram: myinstagram
-linkedin: mylinkedin
-github: mygithub
-email: myemail@gmail.com
+# facebook: myfacebook
+# twitter: mytwitter
+# instagram: myinstagram
+# linkedin: mylinkedin
+github: torbenfeldthusen
+# email: myemail@gmail.com
 
 authors:
   johndoe:
-    name: John Doe
-    bio: A Man who travels the world eating noodles
+    name: Torben Feldthusen
+    bio: malware analyst, reverse engineer, digital nomad and much moore...
     external-image: false
     picture: assets/images/profile.jpg
     twitter: johndoe
