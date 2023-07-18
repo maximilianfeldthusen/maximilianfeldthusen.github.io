@@ -1,16 +1,15 @@
 
 ---
-title: "Debugger Techniques"
+title: "Debugger Techniquewws"
 layout: post
-date: 2023-02-24 22:44
-image: /assets/images/markdown.jpg
+date: 2023-02-14 22:44
 headerImage: false
 tag:
 - debug
 - technique
 star: true
 category: blog
-author: johndoe
+author: torben feldthusen
 description: Markdown summary with different options
 ---
 
