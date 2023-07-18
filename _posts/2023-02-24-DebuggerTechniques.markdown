@@ -10,9 +10,10 @@ tag:
 - technique
 star: true
 category: blog
-author: torben feldthusen
-description: "Debugger Techniques"
+author: johndoe
+description: Markdown summary with different options
 ---
+
 
 
 
