@@ -1,4 +1,17 @@
-
+---
+title: "Debugger Techniques"
+layout: post
+date: 2022-02-24 22:48
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- debugger
+- techniques
+- extra
+category: blog
+author: torbenfeldthusen
+description: debugger techniques
+---
 
 Debugger Techniques
 
