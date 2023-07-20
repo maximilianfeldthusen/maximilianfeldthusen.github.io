@@ -11,7 +11,7 @@ I use Programming Languages like C/C++, Rust and Assembly, etc..</p>
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/torbenfeldthusen/PentestWithGrep /">PentestWithGrep</a></li>
+	<li><a href="https://github.com/torbenfeldthusen/PentestWithGrep/">PentestWithGrep</a></li>
 	<li><a href="https://github.com/">Ipsum Dolor</a></li>
 	<li><a href="https://github.com/">Dolor Lorem</a></li>
 	<li><a href="https://github.com/">Lorem Lorem</a></li>
