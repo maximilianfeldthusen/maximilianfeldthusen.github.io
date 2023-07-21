@@ -1,7 +1,7 @@
 ---
 title: "x86 binary back to C code"
 layout: post
-date: 2023-05-01 22:44
+date: 2022-05-01 22:44
 headerImage: false
 tag:
 - assembly
