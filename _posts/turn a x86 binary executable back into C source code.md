@@ -1,4 +1,17 @@
-
+---
+title: "Turn a x86 binary back into C code"
+layout: post
+date: 2023-05-25 22:44
+headerImage: false
+tag:
+- assembly
+- c
+- reverse engineering
+star: true
+category: blog
+author: torbenfeldthusen
+description: Forensic Analysis
+---
 
 
 
