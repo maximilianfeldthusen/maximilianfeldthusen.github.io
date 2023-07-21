@@ -1,5 +1,5 @@
 ---
-title: "Turn a x86 binary back into C code"
+title: "x86 binary back to C code"
 layout: post
 date: 2023-05-01 22:44
 headerImage: false
