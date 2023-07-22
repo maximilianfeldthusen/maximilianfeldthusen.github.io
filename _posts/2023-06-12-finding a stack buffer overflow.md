@@ -1,15 +1,15 @@
 ---
-title: "Forensic Analysis"
+title: "Finding a stack buffer overflow"
 layout: post
-date: 2023-02-24 22:44
+date: 2023-06-12 22:44
 headerImage: false
 tag:
-- forensic
+- buffer overflow
 - analysis
 star: true
 category: blog
 author: torbenfeldthusen
-description: Forensic Analysis
+description: Reverse Engineering
 ---
 ---
 title: "finding a stack buffer overflow"
