@@ -78,7 +78,7 @@ The compiler rustc is used to compile Rust code.
 
 Most developers do not invoke rustc directly, but instead use cargo.
 
-```bash
+```rust
  cargo build --verbose 
 ```
 cargo
