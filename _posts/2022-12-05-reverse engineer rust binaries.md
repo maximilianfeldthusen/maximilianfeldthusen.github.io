@@ -1,18 +1,18 @@
 
 ---
-title: "Reverse Engineering of Rust binaries"
+title: "Forensic Analysis"
 layout: post
-date: 2023-05-12 22:44
+date: 2023-02-24 22:44
 headerImage: false
 tag:
-- rust
-- c++
-- reverse engineering
+- forensic
+- analysis
 star: true
 category: blog
 author: torbenfeldthusen
-description: Reverse Engineering
+description: Forensic Analysis
 ---
+
 
 
 Reverse Engineering of Rust Binaries
