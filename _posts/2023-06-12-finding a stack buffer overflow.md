@@ -6,7 +6,7 @@ date: 2023-06-12 22:44
 headerImage: false
 tag:
 - buffer overflow
-- c++
+- cpp
 - reverse engineering
 star: true
 category: blog
