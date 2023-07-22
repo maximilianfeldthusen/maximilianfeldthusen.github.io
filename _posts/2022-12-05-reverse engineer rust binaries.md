@@ -1,4 +1,17 @@
-
+---
+title: "Reverse engineering of Rust binaries"
+layout: post
+date: 2022-12-05 22:48
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- Rust
+- cpp
+- extra
+category: blog
+author: torbenfeldthusen
+description: reverse engineering
+---
 ---
 title: "Forensic Analysis"
 layout: post
