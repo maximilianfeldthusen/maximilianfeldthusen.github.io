@@ -12,20 +12,6 @@ category: blog
 author: torbenfeldthusen
 description: reverse engineering
 ---
----
-title: "Forensic Analysis"
-layout: post
-date: 2023-02-24 22:44
-headerImage: false
-tag:
-- forensic
-- analysis
-star: true
-category: blog
-author: torbenfeldthusen
-description: Forensic Analysis
----
-
 
 
 Reverse Engineering of Rust Binaries
