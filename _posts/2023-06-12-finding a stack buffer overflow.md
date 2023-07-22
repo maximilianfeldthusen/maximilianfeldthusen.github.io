@@ -11,21 +11,8 @@ category: blog
 author: torbenfeldthusen
 description: Reverse Engineering
 ---
----
-title: "finding a stack buffer overflow"
-layout: post
-date: 2023-06-12 22:44
-headerImage: false
-tag:
-- buffer overflow
-- cpp
-- reverse engineering
-star: true
-category: blog
-author: torbenfeldthusen
-description: Reverse Engineering
----
 
+Finding a stack buffer overflow
 
 One of the danger of C-style arrays is that their length is not attached to the pointer that points to their beginning. This means that there are lots of unsafe library functions that might write beyond the allocated space.
 
