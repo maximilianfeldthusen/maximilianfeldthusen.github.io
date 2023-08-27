@@ -221,11 +221,10 @@ support code from C header files such
 as math.h and time.h. In this example,
 a simplified version of time.h will do
 but with two changes from the original:
-
-    The built-in type int is used 
-	instead of the alias type time_t.
- The bindgen utility can handle the
- time_t type but generates some 
+The built-in type int is used 	
+instead of the alias type time_t.
+The bindgen utility can handle the
+time_t type but generates some 
  distracting warnings along the way 
  because time_t does not follow Rust 
  naming conventions: in time_t an 
@@ -234,9 +233,9 @@ but with two changes from the original:
  would prefer a CamelCase name such as
  TimeT.
 
-    The type struct tm type is given 
-	StructTM as an alias for the same 
- reason.
+The type struct tm type is given 
+StructTM as an alias for the same 
+reason.
 
 Here is the simplified header file 
 with declarations for mktime and 
