@@ -1,5 +1,5 @@
 ---
-title: "Asynchronous programming in Rust"
+title: "Rust calls to C libraries"
 layout: post
 date: 2023-08-12 22:44
 headerImage: false
