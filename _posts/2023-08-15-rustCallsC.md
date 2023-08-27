@@ -141,19 +141,40 @@ A more readable version: Fri Feb  1 01:01:01 1901
 
 In summary, the Rust calls to library functions asctime and mktime must deal with two issues:
 
-    Passing a raw pointer as the single argument to each library function.
+    Passing a raw pointer as the
+	single argument to each library
+	function.
 
-    Converting the C string returned from asctime into a Rust string.
+    Converting the C string returned
+	from asctime into a Rust string.
 
 Rust calls to asctime and mktime
 
-The bindgen utility generates Rust support code from C header files such as math.h and time.h. In this example, a simplified version of time.h will do but with two changes from the original:
+The bindgen utility generates Rust
+support code from C header files such
+as math.h and time.h. In this example,
+a simplified version of time.h will do
+but with two changes from the original:
 
-    The built-in type int is used instead of the alias type time_t. The bindgen utility can handle the time_t type but generates some distracting warnings along the way because time_t does not follow Rust naming conventions: in time_t an underscore separates the t at the end from the time that comes first; Rust would prefer a CamelCase name such as TimeT.
+    The built-in type int is used 
+	instead of the alias type time_t.
+ The bindgen utility can handle the
+ time_t type but generates some 
+ distracting warnings along the way 
+ because time_t does not follow Rust 
+ naming conventions: in time_t an 
+ underscore separates the t at the end
+ from the time that comes first; Rust
+ would prefer a CamelCase name such as
+ TimeT.
 
-    The type struct tm type is given StructTM as an alias for the same reason.
+    The type struct tm type is given 
+	StructTM as an alias for the same 
+ reason.
 
-Here is the simplified header file with declarations for mktime and asctime at the bottom:
+Here is the simplified header file 
+with declarations for mktime and 
+asctime at the bottom:
     
 ```c
 
