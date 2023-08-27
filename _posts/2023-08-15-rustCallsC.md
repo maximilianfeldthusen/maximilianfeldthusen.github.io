@@ -205,14 +205,16 @@ Date and time: Fri Feb  1 01:01:01 1901
 The integer value returned: 2120218157
 A more readable version: Fri Feb  1 01:01:01 1901
 
-In summary, the Rust calls to library functions asctime and mktime must deal with two issues:
+In summary, the Rust calls to library
+functions asctime and mktime must deal
+with two issues:
 
-    Passing a raw pointer as the
-	single argument to each library
-	function.
+Passing a raw pointer as the
+single argument to each library
+function.
 
-    Converting the C string returned
-	from asctime into a Rust string.
+Converting the C string returned
+from asctime into a Rust string.
 
 Rust calls to asctime and mktime
 
