@@ -4,7 +4,6 @@ layout: post
 date: 2023-08-12 22:44
 headerImage: false
 tag:
-- asynchronous
 - rust
 - programming
 star: true
