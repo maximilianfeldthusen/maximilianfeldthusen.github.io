@@ -1,11 +1,9 @@
-
----
-title: "Rust calls to C library functions"
+title: "Asynchronous programming in Rust"
 layout: post
 date: 2023-08-12 22:44
 headerImage: false
 tag:
-- functions
+- asynchronous
 - rust
 - programming
 star: true
@@ -14,7 +12,6 @@ author: torbenfeldthusen
 description: Rust Programming
 ---
 
-Rust calls to C library functions
 
 
 
