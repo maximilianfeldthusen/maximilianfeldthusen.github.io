@@ -1,6 +1,6 @@
 # main text of home
 title: Maximilian Feldthusen
-bio: malware analyst, reverse engineer, digital nomad and much more...
+bio: reverse engineer, malware analyst digital nomad and much more...
 
 # twitter summary info
 description: A blog about reverse engineering and stuff related
@@ -12,7 +12,7 @@ picture: assets/images/profile.jpg
 
 # your site color theme, true for dark theme, 
 # false to light theme, auto to switch with system.
-dark-theme: auto
+dark-theme: true
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -35,7 +35,7 @@ permalink: /:title/
 
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
-twitter: Maximilian62185
+# twitter: mytwitter
 # instagram: myinstagram
 # linkedin: mylinkedin
 github: maximilianfeldthusen
