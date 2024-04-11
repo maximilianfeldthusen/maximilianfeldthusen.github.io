@@ -16,9 +16,9 @@ dark-theme: true
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
-resume-external: true
-resume-url: https://linktr.ee/maximilianfeldthusen
+resume: false
+resume-external: false
+# resume-url: https://linktr.ee/maximilianfeldthusen
 
 url: https://maximilianfeldthusen.github.io
 # your url: https://USERNAME.github.io
