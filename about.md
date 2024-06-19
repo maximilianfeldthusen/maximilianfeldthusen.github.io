@@ -5,7 +5,6 @@ layout: page
 
 ![IMG_20230818_114352-(2)](https://github.com/maximilianfeldthusen/maximilianfeldthusen.github.io/assets/96908021/e3efa8f5-2304-4cc8-b3ac-cb3c0c960765)
 
-
 <p>Hello! My name is Maximilian Feldthusen and I'm a freelance security consultant with a unique twist - I'm also a digital nomad. With a strong background in cybersecurity and programming, I've the skills and expertise to help protect your digital assets no matter where in the world I may be.
 
 I've over two decades of experience in the cybersecurity field, working with a variety of clients from small businesses to large corporations. My programming knowledge allows me to not only identify vulnerabilities in your systems but also to develop custom solutions to mitigate any potential risks.
