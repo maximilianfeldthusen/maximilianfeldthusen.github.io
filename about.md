@@ -2,7 +2,7 @@
 title: About
 layout: page
 ---
-![Profile Image][IMG_20230818_114352-(2)](https://github.com/maximilianfeldthusen/maximilianfeldthusen.github.io/assets/96908021/a4ebdaa3-006c-48ea-87f0-0fa653b63916)
+![Profile Image]:[IMG_20230818_114352-(2)](https://github.com/maximilianfeldthusen/maximilianfeldthusen.github.io/assets/96908021/a4ebdaa3-006c-48ea-87f0-0fa653b63916)
 
 
 <p>Hello! My name is Maximilian Feldthusen and I'm a freelance security consultant with a unique twist - I'm also a digital nomad. With a strong background in cybersecurity and programming, I've the skills and expertise to help protect your digital assets no matter where in the world I may be.
