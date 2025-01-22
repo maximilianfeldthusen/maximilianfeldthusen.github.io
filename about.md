@@ -9,7 +9,7 @@ layout: page
 
 👋 Hi there! I'm Maximilian Feldthusen
 
-I'm a passionate software developer with a strong focus on C/C++, cybersecurity, and artificial intelligence. With a background in computer science and a keen interest in securing systems and developing intelligent applications, I thrive on tackling complex challenges and building robust solutions.\
+I'm a passionate software developer with a strong focus on C/C++, cybersecurity, and artificial intelligence. With a background in computer science and a keen interest in securing systems and developing intelligent applications, I thrive on tackling complex challenges and building robust solutions.
 
  🚀 Skills & Expertise
  
