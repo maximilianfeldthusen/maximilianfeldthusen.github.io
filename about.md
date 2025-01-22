@@ -25,7 +25,7 @@ I'm a passionate software developer with a strong focus on C/C++, cybersecurity,
 - Cybersecurity: Committed to enhancing security practices through vulnerability assessments, penetration testing, and implementing secure coding standards.
 
   
-- Artificial Intelligence: Exploring machine learning algorithms and AI frameworks to create innovative applications that solve real-world problems.</p>
+- Artificial Intelligence: Exploring machine learning algorithms and AI frameworks to create innovative applications that solve real-world problems.
 
 
 
